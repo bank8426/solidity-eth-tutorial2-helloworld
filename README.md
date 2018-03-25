@@ -14,9 +14,11 @@ Compile , Run and Create contract
 ![alt text](https://s9.postimg.org/n2ziicqn3/Image_1.png)
 
 try add()
+
 ![alt text](https://s9.postimg.org/5cxtxc07j/Image_2.png)
 
 try subtract()
+
 ![alt text](https://s9.postimg.org/vy0csxklb/Image_3.png)
 
 Setup Private Ethereum Network.
